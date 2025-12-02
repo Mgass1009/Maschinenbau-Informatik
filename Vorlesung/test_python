@@ -1,0 +1,5 @@
+>>> name = "Martin"
+>>> age = 23
+>>> print (f "Mein Name ist {name} und ich bin {age} alt." )
+
+
