@@ -1,6 +1,0 @@
->>> name = "Martin"
->>> age = 23
->>> print (f "Mein Name ist {name} und ich bin {age} alt." )
-Mein Name ist Martin und ich bin 23 alt.
->>> print (f "In 5 Jahren werde ich {age + 5} alt sein." )
-In 5 Jahren werde ich 28 alt sein.
